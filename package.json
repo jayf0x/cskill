@@ -1,0 +1,42 @@
+{
+  "name": "@jayf0x/cskill",
+  "version": "0.1.0",
+  "description": "Mines bash command patterns from local Claude Code sessions and maintains a markdown cheatsheet skill so agents stop rediscovering the same patterns.",
+  "bin": {
+    "cskill": "bin/cskill.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "!src/**/__pycache__",
+    "README.md",
+    "LICENSE"
+  ],
+  "os": [
+    "darwin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skill",
+    "bash",
+    "patterns",
+    "cli"
+  ],
+  "author": {
+    "name": "Jay Fox",
+    "email": "jjay56883@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayf0x/cskill"
+  },
+  "homepage": "https://github.com/jayf0x/cskill#readme",
+  "bugs": {
+    "url": "https://github.com/jayf0x/cskill/issues"
+  }
+}
