@@ -1,5 +1,7 @@
 # cskill
 
+> 🚧 DEPRICATED 🚧 : Now became a skill [https://github.com/jayf0x/claude-skills/tree/main/plugins/local-commands](https://github.com/jayf0x/claude-skills/tree/main/plugins/local-commands).
+
 Mines bash command patterns from your local Claude Code session data and
 maintains a markdown cheatsheet skill, so Claude Code agents stop
 rediscovering the same shell patterns in every session.
